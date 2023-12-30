@@ -24,18 +24,17 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm Umer, a BSCS student pursuing a degree in Computer Science. Currently, I work as a full stack developer, possessing skills in Python, React, Bootstrap and Next.js. I excel in problem-solving and pay close attention to detail. In terms of volunteering, I proudly serve as a Devsinc Ambassador and hold an active core positions in university societies. With excellent communication skills, I constantly think outside the box and am eager to contribute to the world through my innovations.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
+  "Web developer",
+  "User acceptance testing",
   "Focus group testing",
-  "Mobile user interfaces",
+  "database administrator",
   "Graphic design",
 ];
 
@@ -45,7 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my full stack development experience I continually look for new and better ways to make tech accessible by all.";
 
 const About = () => {
   return (
